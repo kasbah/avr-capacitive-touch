@@ -1,6 +1,6 @@
-update=Tue 24 Apr 2012 12:49:27 PM EEST
+update=Wed 27 Mar 2013 19:04:41 GMT
 version=1
-last_client=cvpcb
+last_client=eeschema
 [pcbnew]
 version=1
 PadDrlX=320
@@ -34,6 +34,11 @@ LibName12=/home/tuomasnylund/documents/kicad/my-footprints
 LibDir=
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=
@@ -96,9 +101,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/tuomasnylund/documents/kicad/my_parts
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
