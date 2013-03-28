@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Thu 28 Mar 2013 16:25:32 GMT
+Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Thu 28 Mar 2013 16:48:13 GMT
 
 BeginCmp
 TimeStamp = /4F96754F;
@@ -73,14 +73,14 @@ EndCmp
 BeginCmp
 TimeStamp = /4F96737D;
 Reference = D1;
-ValeurCmp = LED;
+ValeurCmp = LED_RED;
 IdModule  = LED-0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /4F96737F;
 Reference = D2;
-ValeurCmp = LED;
+ValeurCmp = LED_GREEN;
 IdModule  = LED-0805;
 EndCmp
 
