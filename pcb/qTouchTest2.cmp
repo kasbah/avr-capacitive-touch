@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Thu 28 Mar 2013 16:18:01 GMT
+Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Thu 28 Mar 2013 16:25:32 GMT
 
 BeginCmp
 TimeStamp = /4F96754F;
@@ -108,7 +108,7 @@ EndCmp
 BeginCmp
 TimeStamp = /4FA3A1D2;
 Reference = L1;
-ValeurCmp = INDUCTOR;
+ValeurCmp = FERRITE_BEAD;
 IdModule  = SM0805;
 EndCmp
 
@@ -276,7 +276,7 @@ EndCmp
 BeginCmp
 TimeStamp = /4F9675BE;
 Reference = X1;
-ValeurCmp = CRYSTAL;
+ValeurCmp = CRYSTAL_8MHz;
 IdModule  = Q_49U3HMS;
 EndCmp
 
